@@ -17,9 +17,6 @@ Além do mundo da programação, também tenho um interesse crescente no desenvo
 
 Minha visão para o futuro transcende o código. Tenho como objetivo me tornar um professor de programação, trazendo o poder da codificação para as salas de aula de ensino fundamental e médio. Acredito que essa habilidade não apenas abre portas para carreiras técnicas, mas também nutre habilidades de resolução de problemas e pensamento lógico desde cedo.
 
-<div align="left">
-  <img src="https://visitor-badge.feriirawann.repl.co/?username=murilonicemento&repo=vitorpldev&style=for-the-badge&label=Visitantes&logo=OpenTelemetry&color=61DAFB&contentType=svg" alt="Contador de Visitas do Perfil no Github do Vitor" height="28px" />
-</div>
 
 ## Atividades 
 
