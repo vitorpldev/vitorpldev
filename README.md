@@ -1,78 +1,99 @@
 <h1 align="center">Bem-vindo ao Meu Perfil! 👋</h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Back-end+Developer+%3A)" /> </h3>
 
-### Sobre Mim
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Back-end+Developer+%3A)" />
+</p>
 
-Olá! Sou Vitor, um apaixonado pela programação, estou com foco no desenvolvimento back-end e na criação de APIs robustas. Minha paixão por desvendar os aspectos técnicos das soluções me impulsiona a enfrentar desafios complexos e encontrar maneiras eficientes de otimizar o desempenho das aplicações.
+---
 
-### Minha Abordagem
+### Sobre Mim 🚀
 
-Com uma preferência por projetos colaborativos, acredito no valor de me especializar em uma área específica para oferecer soluções sólidas. Adoro trabalhar em equipe, explorar diferentes perspectivas e contribuir para projetos que se beneficiam da combinação de especializações individuais.
+Olá! Eu sou **Vitor**, um desenvolvedor focado em **back-end** e criação de **APIs robustas**. Minha curiosidade por soluções técnicas e otimizações me impulsiona a enfrentar desafios complexos, buscando sempre a melhor performance para as aplicações.
 
-### Além da Programação
+---
 
-Além do mundo da programação, também tenho um interesse crescente no desenvolvimento de jogos como hobby. Embora não seja meu foco principal, adoro aprender sobre as mecânicas por trás dos jogos e, eventualmente, criar experiências divertidas para compartilhar com amigos e familiares.
+### Minha Abordagem 💡
 
-### Rumo ao Futuro
+- 💻 **Colaboração**: Adoro trabalhar em equipe e valorizar diferentes perspectivas.
+- 📚 **Especialização**: Acredito na importância de aprofundar conhecimentos em áreas específicas para oferecer soluções sólidas.
+- 🛠️ **Desafios Técnicos**: Me dedico a encontrar maneiras criativas de resolver problemas.
 
-Minha visão para o futuro transcende o código. Tenho como objetivo me tornar um professor de programação, trazendo o poder da codificação para as salas de aula de ensino fundamental e médio. Acredito que essa habilidade não apenas abre portas para carreiras técnicas, mas também nutre habilidades de resolução de problemas e pensamento lógico desde cedo.
+---
 
+### Além da Programação 🎮
 
-## Atividades 
+No meu tempo livre, me aventuro no mundo dos jogos, criando pequenas experiências e explorando mecânicas como hobby. 🎮 Ainda que não seja o foco principal, essa paixão me ajuda a aprimorar minhas habilidades criativas e técnicas.
 
-<div align="center">
-  <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=vitorpldev&theme=react&hide_border=true&show_icons=true" />
-</div>
-<br/><br/>
+---
 
-<div style="display: flex; flex-direction: row; justify-content: space-around;">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpldev&theme=react&hide_border=true" alt="vitorpldev" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorpldev&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="vitorpldev" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpldev&show_icons=true&theme=react&locale=en&hide_border=true" alt="vitorpldev" />
-</div>
+### Visão de Futuro 🌟
 
-## Tecnologias e ferramentas
-  
-<div style="display: inline_block"><br>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
+Tenho como meta me tornar professor de programação, levando o poder do código para jovens no ensino fundamental e médio. **Educar e inspirar** é um caminho que acredito que pode transformar vidas e preparar as futuras gerações para o mundo digital.
+
+---
+
+## Atividades 📊
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorpldev&theme=react&hide_border=true&show_icons=true" alt="Gráfico de Atividades" />
+</p>
+
+<p align="center" style="display: flex; justify-content: space-around;">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpldev&theme=react&hide_border=true" alt="Streak Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorpldev&show_icons=true&theme=react&locale=en&layout=compact&hide_border=true" alt="Linguagens Mais Usadas" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorpldev&show_icons=true&theme=react&locale=en&hide_border=true" alt="Github Stats" />
+</p>
+
+---
+
+## Tecnologias e Ferramentas ⚙️
+
+### Tecnologias Recentes
+
+<div style="display: flex; justify-content: space-around;">
+  <a href="https://bun.sh" target="_blank" rel="noreferrer">
+    <img alt="Bun.js" src="https://bun.sh/logo.svg" width="50" height="50" />
   </a>
-  <a href="https://www.w3schools.com/js/" target="_blank" rel="noreferrer">
-    <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer">
+    <img alt="Prisma" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="50" height="50" />
   </a>
-  <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer">
-    <img alt="Express.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
+  <a href="https://elysiajs.com/" target="_blank" rel="noreferrer">
+    <img alt="Elysia" src="https://elysiajs.com/assets/elysia.svg" width="50" height="50" />
   </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img alt="Docket" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-  </a>
-  <a href="https://jestjs.io/pt-BR/" target="_blank" rel="noreferrer">
-    <img alt="Jest" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="40" height="40"/>
-  </a>
-  <a href="https://socket.io/" target="_blank" rel="noreferrer">
-    <img alt="Socket.io" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="40" height="40"/>
+    <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="50" height="50" />
   </a>
 </div>
 
-## Redes sociais!
+### Outras Tecnologias
 
-<div style="display: inline_block">
-  <a href="https://www.linkedin.com/in/vitorpl07/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vitorpl07/" height="30" width="40" />
+<div style="display: flex; justify-content: space-around;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" alt="Jest" />
+</div>
+
+---
+
+## Vamos Conectar! 🌐
+
+<div style="display: flex; justify-content: center;">
+  <a href="https://www.linkedin.com/in/vitorpl07/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
-  <a href="https://dev.to/vitorpl" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="vitorpl" height="30" width="40" />
+  <a href="https://dev.to/vitorpl" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="Dev.to" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/vitorpl.dev/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/vitorpl.dev/" height="30" width="40" />
+  <a href="https://www.instagram.com/vitorpl.dev/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
 </div>
 
-<br/>
+---
+
+<p align="center">
+  <img src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
+</p>
 
 Estou sempre aberto a novas conexões, discussões técnicas e oportunidades de colaboração. Vamos juntos construir um mundo digital mais dinâmico e inclusivo!
-
-<img align="center" src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" />
