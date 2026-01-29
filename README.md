@@ -1,106 +1,49 @@
-<h1 align="center" style="font-family:'Montserrat',sans-serif;font-weight:800;font-size:3rem;color:#2f74c0;">
-  👋 Olá, Mundo! Eu sou o Vitor
-</h1>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vitorpldev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" align="right" width="400" />
+  
+  <h1 align="left">👋 Eu sou o Vitor</h1>
+  
+  <p align="left">
+    <strong>Software Engineer | Back-end Specialist | SaaS Developer</strong><br />
+    Focado em performance com <code>Bun</code>, <code>ElysiaJS</code> e <code>PostgreSQL</code>.
+  </p>
 
-<p align="center">
-  <img src="https://github.com/vitorpldev.png" alt="Foto de Vitor" width="200" style="border-radius:50%;border:5px solid #2f74c0;box-shadow:0 6px 12px rgba(0,0,0,0.15);" />
-</p>
-
-<p align="center" style="font-size:1.2rem;font-weight:600;">
-  💻 Desenvolvedor Back-end • 🔧 Criador de APIs • 🚀 Entusiasta de Desempenho
-</p>
-
----
-
-## 🧭 Um Pouco Sobre Mim
-
-Sou **Vitor**, um desenvolvedor movido por **curiosidade, eficiência e propósito**.  
-Minha missão é **transformar ideias em sistemas sólidos**, com foco em **alta performance** e **código limpo**.
-
-> _“A melhor forma de prever o futuro é criá-lo.”_  
-> — Peter Drucker
-
----
-
-## ⚡ Stack Principal
-
-<div align="center" style="display:flex;justify-content:center;gap:50px;flex-wrap:wrap;">
-  <img src="https://bun.sh/logo.svg" alt="Bun.js" width="55" height="55" title="Bun.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="55" height="55" title="TypeScript" />
-  <img src="https://elysiajs.com/assets/elysia.svg" alt="Elysia" width="55" height="55" title="ElysiaJS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="55" height="55" title="Prisma ORM" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="55" height="55" title="Docker" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="55" height="55" title="PostgreSQL" />
+  <p align="left">
+    <a href="https://www.linkedin.com/in/vitorpldev/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://www.instagram.com/vitorpl.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  </p>
 </div>
 
----
+<br />
 
-## 🧠 Minha Filosofia
+### 🛠️ Stack Tecnológica
 
-- 🧩 **Eficiência acima de tudo:** gosto de enxugar código até ele parecer óbvio.  
-- 🤝 **Colaboração real:** tecnologia é sobre pessoas antes de ser sobre código.  
-- 🔍 **Detalhismo técnico:** pequenos ajustes constroem grandes resultados.  
-- 🧗‍♂️ **Desafios me movem:** cada bug é uma oportunidade de evolução.
-
----
-
-## 🎯 Projetos & Aprendizado Contínuo
-
-Eu acredito no **crescimento exponencial através da prática**.  
-Por isso, estou sempre criando **APIs, sistemas e automações** para testar limites e explorar novas tecnologias.
+| Camada | Tecnologias |
+| :--- | :--- |
+| **Runtime** | ![Bun](https://img.shields.io/badge/Bun-000000?style=flat-square&logo=bun&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Back-end** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![Elysia](https://img.shields.io/badge/ElysiaJS-7C3AED?style=flat-square) ![Fastify](https://img.shields.io/badge/Fastify-000000?style=flat-square&logo=fastify&logoColor=white) |
+| **Data** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logoColor=black) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white) |
+| **Infra** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Caddy](https://img.shields.io/badge/Caddy-00ADD8?style=flat-square&logo=caddy&logoColor=white) |
 
 ---
 
-## 🎮 Além do Código
+### 🚀 Projetos em Destaque
 
-Nos intervalos entre commits, gosto de:
-- 🎨 Criar mini-jogos e experiências interativas  
-- 📚 Estudar arquitetura de software e design de sistemas  
-- ☕ Refletir sobre como tecnologia pode gerar impacto humano
-
----
-
-## 🌍 Visão de Futuro
-
-Quero usar a programação como **ferramenta de transformação social**.  
-Meu objetivo é **ensinar jovens a programar** e mostrar que tecnologia é um **caminho possível e poderoso**.
+* **SaaS Barber Engine:** API de agendamento multi-tenant com split de pagamentos via PIX.
+* **Performance Monitoring:** Dashboards e automação de backups PostgreSQL para B2/S3.
+* **Mobile Tools:** Apps construídos com Expo para ecossistemas SaaS.
 
 ---
 
-## 📊 Estatísticas do GitHub
+### 📈 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpldev&theme=react&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api?username=vitorpldev&show_icons=true&theme=react&hide_border=true" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorpldev&layout=compact&theme=react&hide_border=true" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=vitorpldev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitorpldev&theme=tokyonight&hide_border=true&background=0D1117" width="45%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitorpldev&theme=react-dark&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🌐 Conecte-se Comigo
-
-<div align="center" style="display:flex;justify-content:center;gap:40px;flex-wrap:wrap;">
-  <a href="https://www.linkedin.com/in/vitorpl07/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" title="LinkedIn" />
-  </a>
-  <a href="https://dev.to/vitorpl" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" width="40" title="Dev.to" />
-  </a>
-  <a href="https://www.instagram.com/vitorpl.dev/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="40" title="Instagram" />
-  </a>
-</div>
-
----
+<br />
 
 <p align="center">
-  <img src="./images/animated-waves.svg" width="100%" alt="Ondas animadas do Footer" style="border-radius:10px;" />
-</p>
-
-<p align="center" style="font-size:0.9rem;opacity:0.8;">
-  🌱 Sempre evoluindo — um commit de cada vez.
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0D1117&height=60&section=footer" width="100%" />
 </p>
